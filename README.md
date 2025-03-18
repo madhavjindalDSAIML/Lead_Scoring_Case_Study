@@ -1,2 +1,2 @@
 # project1
-Lead Scoring
+Lead Scoring Case Study
